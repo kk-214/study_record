@@ -1,11 +1,1 @@
-# study_record
-# study_record
-# study_record
-# study_record
-# study_record
-# study_record
-# study_record
-# study_record
-# study_record
-# study_record
-# study_record
+学習記録をしていく‼️🧚😻👽👊🏻🔥☄️💨
