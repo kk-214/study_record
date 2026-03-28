@@ -35,3 +35,12 @@ paiza:PHP入門編 第6章(chap.8,9)履修完了
 paiza:PHP入門編 第6章〜第8章(chap.3まで)履修完了
 一言:ミスって第6章の残りも全部履修してしまった
 クラス、public function __construct($〜)この辺の仕組みがむずい
+
+3/27 5h
+paiza:PHP入門編・Web技術履修完了
+一言:pushしそびれ涙
+
+3/28 9h
+paiza:Webアプリ開発入門 第3章章(chap.7まで)履修完了
+一言:my SQL
+
