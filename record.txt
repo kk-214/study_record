@@ -44,3 +44,6 @@ paiza:PHP入門編・Web技術履修完了
 paiza:Webアプリ開発入門 第3章章(chap.7まで)履修完了
 一言:my SQL
 
+3/29 6.5h
+paiza:Webアプリ開発入門 履修完了
+一言:paiza完了❗️ Eloquent、マークダウン
